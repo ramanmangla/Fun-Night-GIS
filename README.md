@@ -11,3 +11,5 @@ The perfect Geographic Information System solution to plan a fun night out at re
  * Primary Language: C++
  * Libraries: GTK3, STL
  * API: Yelp API, OpenStreetMap Data
+
+![Toronto-Light-Mode-Map](Toronto-Day-Map.png)
