@@ -5,3 +5,8 @@ The perfect Geographic Information System solution to plan a fun night out at re
   * Integrates Yelp API to filter nearby restaurants, clubs and theatres according to rating, price and distance
   * Provides name search functionality for finding restaurants, clubs and theatres and displaying
   * Helps plan out optimal trave route with turn penalty considerations and provides directions through Dijkstra and A* algorithms
+  
+ ## Tech Stack:
+ * Primary Language: C++
+ * Libraries: GTK3, STL
+ * API: Yelp API, OpenStreetMap Data
