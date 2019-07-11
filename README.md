@@ -1,6 +1,5 @@
-![FuntNight-logo](FunNight-Logo.png)
+![FunNight-logo](FunNight-Logo.png)
 
-# Fun-Night-GIS
 The perfect Geographic Information System solution to plan a fun night out at restaurants, theatres and clubs.
   * Maps the world's major cities and their features using OpenStreetMap open source data
   * Provides a minimalist desktop GUI with high map to interface ratio and Dark colour mode
