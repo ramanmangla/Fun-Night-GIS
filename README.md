@@ -1,4 +1,4 @@
-![FunNight-Logo]("FunNight-Logo.png")
+![FuntNight-logo](FunNight-Logo.png)
 
 # Fun-Night-GIS
 The perfect Geographic Information System solution to plan a fun night out at restaurants, theatres and clubs.
